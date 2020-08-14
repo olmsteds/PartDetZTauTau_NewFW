@@ -37,6 +37,9 @@ RemoveOverlapWithTau2s 1
 Tau1MatchingDeltaR  0.3
 Tau2MatchingDeltaR 0.3
 
+RemoveOverlapWithJs 0
+JMatchingDeltaR 0.3
+
 RemoveOverlapWithBs 0
 BJMatchingDeltaR 0.3
 
@@ -49,8 +52,8 @@ Apply2017EEnoiseVeto false
 EtaCut 0. 5.0
 PtCut 30.0
 
-ApplyLooseID 0
-ApplyTightID 1
+ApplyLooseID 1
+ApplyTightID 0
 
 RemoveOverlapWithMuon1s 1
 RemoveOverlapWithMuon2s 1
@@ -66,6 +69,9 @@ RemoveOverlapWithTau1s 1
 RemoveOverlapWithTau2s 1
 Tau1MatchingDeltaR  0.3
 Tau2MatchingDeltaR 0.3
+
+RemoveOverlapWithJs 0
+JMatchingDeltaR 0.3
 
 RemoveOverlapWithBs 0
 BJMatchingDeltaR 0.3

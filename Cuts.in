@@ -36,7 +36,7 @@ NGenTau		0  -1
 ***METCut        1   -1   ///met cut
 ***NRecoJet1             1   -1
 ***NRecoJet2             2   -1
-***NDiJetCombinations      0   0
+***NDiJetCombinations      1   -1
 ***NRecoMuon1            0    0
 NRecoMuon2            0    0
 ***NRecoElectron1        0   0
